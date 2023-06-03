@@ -7,7 +7,7 @@
 * Visualize
 * Share
 
-## Questions to Ask - 
+## Questions that the case study will answer - 
 1. How much is India dependent on oil and natural gas?
   * Annual imports and exports
   * Sanctioned Budgets
